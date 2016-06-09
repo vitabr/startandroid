@@ -1,2 +1,1 @@
-# startandroid
-startandroid lesson [http://startandroid.ru/](http://startandroid.ru/)
+Sample Projects for [http://startandroid.ru/](http://startandroid.ru/)
