@@ -1,1 +1,1 @@
-Sample Projects for [http://startandroid.ru/](http://startandroid.ru/)
+Template Projects from [http://startandroid.ru/](http://startandroid.ru/)
